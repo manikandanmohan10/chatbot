@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.env
+.tgz
+**.pickle
+chat_model
+portaudio
